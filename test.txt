@@ -3,7 +3,7 @@ Druga zmiana
 Trzecia zmiana
 4
 Piąta zmaina
-<<<<<<< HEAD
+elo
 Szósta zmiana
 =======
 Sześć
@@ -12,4 +12,4 @@ Dodanie nowego :)
 I jeszcze jeden
 Cos tam nowego
 iPhone
->>>>>>> origin/master
+320
