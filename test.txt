@@ -3,4 +3,13 @@ Druga zmiana
 Trzecia zmiana
 4
 Piąta zmaina
+<<<<<<< HEAD
 Szósta zmiana
+=======
+Sześć
+Siedem
+Dodanie nowego :)
+I jeszcze jeden
+Cos tam nowego
+iPhone
+>>>>>>> origin/master
