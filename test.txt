@@ -13,3 +13,5 @@ I jeszcze jeden
 Cos tam nowego
 iPhone
 320
+
+wersja 0.1
